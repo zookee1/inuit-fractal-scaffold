@@ -1,1 +1,1 @@
-# inuit-patternlab-scaffold
+# inuit-fractal-scaffold
