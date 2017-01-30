@@ -1,0 +1,14 @@
+{
+  "name": "inuit-fractal-scaffold",
+  "version": "0.0.1",
+  "author": "zookee1",
+  "license": "MIT",
+  "repository": {},
+  "bugs": {
+    "url": "https://github.com/zookee1/inuit-fractal-scaffold/issues"
+  },
+  "dependencies": {
+    "@frctl/fractal": "^1.1.0",
+    "inuitcss": "^6.0.0-beta.4"
+  }
+}
