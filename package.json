@@ -1,7 +1,11 @@
 {
   "name": "inuit-fractal-scaffold",
   "version": "0.0.1",
-  "author": "zookee1",
+  "author": "zookee1 <hi@zookee.one>",
+  "contributors": [{
+    "name": "csshugs",
+    "email": "dennis@csshugs.com"
+  }],
   "license": "MIT",
   "repository": {},
   "bugs": {
