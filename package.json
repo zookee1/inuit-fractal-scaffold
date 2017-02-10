@@ -16,6 +16,10 @@
   "bugs": {
     "url": "https://github.com/zookee1/inuit-fractal-scaffold/issues"
   },
+  "scripts" :
+    {
+      "start" : "fractal start --sync | sass src/scss/style.scss:public/css/style.css --sourcemap=none --watch"
+  },
   "dependencies": {
     "@frctl/fractal": "^1.1.0",
     "inuitcss": "^6.0.0-beta.4"
