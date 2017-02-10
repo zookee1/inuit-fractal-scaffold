@@ -1,12 +1,25 @@
 # inuit-fractal-scaffold
 
-## Requirements
-* Node vX
-* npm
-* PHP vX
-* npm i -g @frctl/fractal
+This project combines [Fractal](http://fractal.build/), a living styleguide tool with [inuitcss](https://github.com/inuitcss/inuitcss), a Sass framework based on the ITCSS methodology.
 
-## Using
-* https://github.com/inuitcss/inuitcss
-* http://fractal.build/
-* npm
+## Requirements
+
+* Nodejs v4.4.7+
+* Sass v3.3+
+* Install the Fractal CLI tool via `npm install -g @frctl/fractal`
+
+## Getting Started
+
+Clone or download this repository, cd into the root directory and run:
+
+```bash
+$ npm install
+```
+
+You can then start to develop running:
+
+```bash
+$ npm start
+```
+
+and open [localhost:3000](http://localhost:3000/) in your browser.
