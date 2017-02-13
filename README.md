@@ -23,3 +23,8 @@ $ npm start
 ```
 
 and open [localhost:3000](http://localhost:3000/) in your browser.
+
+
+## Optional
+
+install https://github.com/zookee1/atomic-design-fractal-scaffold
