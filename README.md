@@ -27,7 +27,7 @@ and open [localhost:3000](http://localhost:3000/) in your browser.
 
 ## Optional
 
-You can use our [atomic methodology](https://github.com/zookee1/atomic-design-fractal-scaffold) repository instead of starting with a clean project.
+You can use our [atomic methodology repository](https://github.com/zookee1/atomic-design-fractal-scaffold) instead of starting with a clean project.
 
 ```bash
 $ npm run starterkit
