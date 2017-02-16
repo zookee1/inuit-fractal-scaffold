@@ -17,7 +17,8 @@
     "url": "https://github.com/zookee1/inuit-fractal-scaffold/issues"
   },
   "scripts": {
-      "start" : "fractal start --sync | sass src/scss/style.scss:public/css/style.css --sourcemap=none --watch"
+      "start" : "fractal start --sync | sass src/scss/style.scss:public/css/style.css --sourcemap=none --watch",
+      "starterkit": "bash ./scripts/starterkit.sh"
   },
   "dependencies": {
     "@frctl/fractal": "^1.1.0",
