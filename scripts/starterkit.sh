@@ -8,4 +8,4 @@ if [ -d "$SRCDIR" ]; then
     sudo rm -rf "$SRCDIR"
 fi
 
-git clone $STARTERKIT src
+git clone $STARTERKIT $SRCDIR
