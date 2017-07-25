@@ -1,6 +1,6 @@
-# Test notes
+# Notes
 
-This is a _test_ note written in **markdown**.
+This is a _demo_ note written in **markdown**.
 
 **Code:**
 
