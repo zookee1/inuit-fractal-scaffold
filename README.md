@@ -24,7 +24,7 @@ $ npm start
 
 For Windows use
 ```bash
-$ ./node_modules/.bin/fractal start --sync
+$ fractal start --sync | sass src/scss/style.scss:public/css/style.css --sourcemap=none --watch
 ```
 
 and open [localhost:3000](http://localhost:3000/) in your browser.
