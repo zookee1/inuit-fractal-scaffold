@@ -22,6 +22,11 @@ You can then start to develop running:
 $ npm start
 ```
 
+For Windows use
+```bash
+$ ./node_modules/.bin/fractal start --sync
+```
+
 and open [localhost:3000](http://localhost:3000/) in your browser.
 
 
